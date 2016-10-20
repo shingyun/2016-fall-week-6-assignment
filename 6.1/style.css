@@ -1,0 +1,20 @@
+.axis .tick line{
+    stroke:rgb(255,255,255);
+}
+
+.axis path{
+	stroke-width:0px;
+}
+
+.country text{
+    font-size:15px;
+    text-align:center;
+}
+
+.country path{
+	stroke-width:0px;
+}
+
+.country .tick line{
+    stroke:rgb(255,255,255);
+}
